@@ -1,0 +1,16 @@
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 7\задача_49\obj\Debug\net6.0\задача_49.GlobalUsings.g.cs
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 7\задача_49\obj\Debug\net6.0\задача_49.csproj.AssemblyReference.cache
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 7\задача_49\obj\Debug\net6.0\задача_49.GeneratedMSBuildEditorConfig.editorconfig
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 7\задача_49\obj\Debug\net6.0\задача_49.AssemblyInfoInputs.cache
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 7\задача_49\obj\Debug\net6.0\задача_49.AssemblyInfo.cs
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 7\задача_49\obj\Debug\net6.0\задача_49.csproj.CoreCompileInputs.cache
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 7\задача_49\bin\Debug\net6.0\задача_49.exe
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 7\задача_49\bin\Debug\net6.0\задача_49.deps.json
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 7\задача_49\bin\Debug\net6.0\задача_49.runtimeconfig.json
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 7\задача_49\bin\Debug\net6.0\задача_49.dll
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 7\задача_49\bin\Debug\net6.0\ref\задача_49.dll
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 7\задача_49\bin\Debug\net6.0\задача_49.pdb
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 7\задача_49\obj\Debug\net6.0\задача_49.dll
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 7\задача_49\obj\Debug\net6.0\ref\задача_49.dll
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 7\задача_49\obj\Debug\net6.0\задача_49.pdb
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 7\задача_49\obj\Debug\net6.0\задача_49.genruntimeconfig.cache
